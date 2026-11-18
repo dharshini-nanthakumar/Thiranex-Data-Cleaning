@@ -1,0 +1,10 @@
+Order_ID,Customer,Product,Quantity,Price,City
+101,Arun,Laptop,2,45000,Chennai
+102,Divya,Mobile,1,15000,Coimbatore
+103,Ravi,Tablet,3,12000,Pollachi
+104,Meena,Laptop,,45000,Chennai
+105,Arun,Laptop,2,45000,Chennai
+106,Kavin,Mobile,2,15000,
+107,Divya,Tablet,1,12000,coimbatore
+108,Anu,Mobile,three,15000,Chennai
+109,Ravi,Laptop,1,45000,Pollachi

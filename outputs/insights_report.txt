@@ -1,0 +1,20 @@
+DATA INSIGHTS REPORT
+====================
+Total Records: 9
+Total Sales: Rs. 438000
+Best-Selling Product: Laptop
+Lowest-Selling Product: Tablet
+Highest Sales City: Chennai
+
+Product-wise Sales:
+Product
+Laptop    315000
+Mobile     75000
+Tablet     48000
+
+City-wise Sales:
+City
+Chennai       300000
+Coimbatore     27000
+Pollachi       81000
+Unknown        30000
